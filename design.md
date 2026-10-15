@@ -17,3 +17,6 @@ Une page React dans packages/web, composants et styles dédiés. Assets dans pub
 
 ## Interactions
 Navigation par ancres, carrousel hero, recherche des formations, détails et galerie en modal. Formulaire d'admission local : confirmation précisant qu'aucune demande n'est envoyée. Newsletter démonstrative sans abonnement réel.
+
+## Extension validée — site multipage et motion
+Conserver strictement l'identité Eduka. Pages /, /formations, /formations/:slug, /ecole, /campus, /admissions, /blog, /blog/:slug, /contact et page 404. Header/footer partagés, état actif du menu, fil d'Ariane, CTA cohérents. Blog avec recherche, filtres, pagination, articles de démonstration signalés, sommaire, auteur et articles associés. Motion React : révélations progressives, transitions de page, barre de progression et micro-interactions, respect de prefers-reduced-motion. Formulaires de démonstration explicites. Aucun backend ni base supplémentaire.
